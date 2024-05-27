@@ -46,4 +46,4 @@ mintNFT(13918, "Arneet", "BCA", 9.1);
 listNFTs();
 
 //Print the total number of NFTs
-console.log("Number of NFTs are: "+ getTotalSupply());
+console.log("\nNumber of NFTs are: "+ getTotalSupply());
